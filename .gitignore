@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Editor directories and files
 .vscode/
 .idea/
@@ -10,3 +11,15 @@ Thumbs.db
 desktop.ini
 # Log files
 *.log
+=======
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+# Operating System Files
+.DS_Store
+Thumbs.db
+# Log files
+*.log
+.cache/
+>>>>>>> c08473d (feat: implementasi tata letak responsif flexbox dan css grid judul 2)
